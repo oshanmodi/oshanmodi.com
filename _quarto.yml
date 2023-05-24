@@ -1,0 +1,40 @@
+project:
+  type: website
+  resources:
+    - cv.pdf
+
+website:
+  title: "Oshan Modi"
+  favicon: "images/linkedinimage.png"
+  site-url: https://oshanmodi.com
+  description: "data, dogs and rest"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@oshanmodi"
+  comments:
+    utterances:
+      repo: oshanmodi/oshanmodi.com
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Resume"
+        href: resume.qmd
+  
+  page-footer:
+    center: |
+      <span class="container"><strong>[Contact Oshan Modi](mailto:modi.oshan@gmail.com){target="_blank"}</strong></span>
+    left: |
+      <span class="container"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></span>
+    right: |
+      <span class="container"><strong>[Github Repo](https://github.com/ModiFiedData/oshanmodi.com){target="_blank"}</strong></span>
+    background: "#545551"
+    
+format:
+  html:
+    theme: 
+      light: [sandstone, _variables.scss]
+    css: styles.css

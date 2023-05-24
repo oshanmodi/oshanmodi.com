@@ -1,0 +1,29 @@
+---
+title: "Oshan Modi"
+image: images/avatar.png
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/oshanmodi/"
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/oshanmodi"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/oshanmodi"
+    - text: Contact Me
+      icon: envelope
+      url: "mailto:modi.oshan@gmail.com"
+comments: false
+---
+::: {.column-page}
+
+## Bio
+
+ I'm Oshan Modi, a data scientist on a mission to solve business problems through the power of machine learning. I'm constantly expanding my knowledge, from mastering new machine learning techniques to diving into game theory. With a strong foundation in statistics and predictive analytics, I combine technical expertise with business acumen to deliver actionable solutions. My portfolio showcases a diverse range of projects, from sales forecasting models to recommendation systems and natural language processing.
+ 
+ I have recently started working on computer vision problems and have also picked up skills in effective MLOps. I spend most of my time following MOOCs, competing on kaggle, playing with my dogs - Tuffy & Lyka.
+
+:::
