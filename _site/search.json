@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Oshan Modi",
+    "section": "",
+    "text": "I’m Oshan Modi, a data scientist on a mission to solve business problems through the power of machine learning. I’m constantly expanding my knowledge, from mastering new machine learning techniques to diving into game theory. With a strong foundation in statistics and predictive analytics, I combine technical expertise with business acumen to deliver actionable solutions. My portfolio showcases a diverse range of projects, from sales forecasting models to recommendation systems and natural language processing.\nI have recently started working on computer vision problems and have also picked up skills in effective MLOps. I spend most of my time following MOOCs, competing on kaggle, playing with my dogs - Tuffy & Lyka."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Oshan Modi",
+    "section": "",
+    "text": "I’m Oshan Modi, a data scientist on a mission to solve business problems through the power of machine learning. I’m constantly expanding my knowledge, from mastering new machine learning techniques to diving into game theory. With a strong foundation in statistics and predictive analytics, I combine technical expertise with business acumen to deliver actionable solutions. My portfolio showcases a diverse range of projects, from sales forecasting models to recommendation systems and natural language processing.\nI have recently started working on computer vision problems and have also picked up skills in effective MLOps. I spend most of my time following MOOCs, competing on kaggle, playing with my dogs - Tuffy & Lyka."
+  },
+  {
+    "objectID": "posts/fastai-lesson1-intro/index.html",
+    "href": "posts/fastai-lesson1-intro/index.html",
+    "title": "Intro to Fast.Ai",
+    "section": "",
+    "text": "A summary of the first lesson of the fastai v1 course.\n\n\nfast.ai\nfast.ai is an API built on top of pytorch that provides easy implementation of machine learning functions for most practical usecases, without having to worry about any of the boilerplate code. Not just that, it also enables customisations in all the right places.\nThis is my one of many attempts at completing the fastai course. I have been at it since the first iteration of the course, back in 2016.\nIn this blogpost we talk about the contents of the first lesson of the course.\nIn the first lesson Jeremy explains the steps involved in training an image classifier using the datablock api. datablocks are building blocks for model development in the fastai universe and come with several inbuilt methods that expedite model training and exploration.\nSteps to train an image classifer using datablock and resnet18 architecture:\n\nCreate a datablock api\nPass the path of the data to dataloaders method of the datablock\nCreate learner with resnet18 architecture and the dataloader created in step2\nfine_tune the learner\nexport learner as pickle for inferencing.\n\nLet’s understand the inputs to the datablock api -\n\ndatatype - input object type, label type\nfunction to identify the label\nitem transformations\nbatch transformations\nsplitter - function to split to training and validation datasets\nget_items - function to obtain the input objects\n\nThere are task specific dataloaders built on top of datablocks which further simply data load, eg. Segmentation dataloaders, Tabular dataloader, collab dataloaders, and more."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Oshan talks",
+    "section": "",
+    "text": "Intro to Fast.Ai\n\n\n\nfastai\n\n\n\n\n\n\n\nOshan Modi\n\n\nMay 13, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
