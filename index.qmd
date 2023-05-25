@@ -19,9 +19,11 @@ comments: false
 
 ## Bio
 
- I'm Oshan Modi, a data scientist on a mission to solve business problems through the power of machine learning. I'm constantly expanding my knowledge, from mastering new machine learning techniques to diving into game theory. With a strong foundation in statistics and predictive analytics, I combine technical expertise with business acumen to deliver actionable solutions. My portfolio showcases a diverse range of projects, from sales forecasting models to recommendation systems and natural language processing.
+ I'm Oshan Modi, a data scientist on a mission to solve business problems through the power of machine learning. I'm constantly expanding my knowledge, from mastering new machine learning techniques to diving into game theory concepts.
  
- I have recently started working on computer vision problems and have also picked up skills in effective MLOps.
+ With a strong foundation in statistics and predictive analytics, I combine technical expertise with business acumen to deliver actionable solutions. My portfolio showcases a diverse range of projects, from sales forecasting models to recommendation systems and natural language processing.
+ 
+ I have recently started working on computer vision problems and have also picked up skills in MLOps and Data Engineering.
  
  When I'm not coding, you can find me strategizing my next move on the chessboard, attempting favors in GOW-Ragnarock or playing with my dogs - Tuffy and Lyka.
 
