@@ -15,7 +15,6 @@ about:
       url: "mailto:modi.oshan@gmail.com"
 comments: false
 ---
-::: {.column-body}
 
 ## Bio
 
@@ -27,9 +26,3 @@ comments: false
  
  When I'm not coding, you can find me strategizing my next move on the chessboard, attempting favors in GOW-Ragnarock or playing with my dogs - Tuffy and Lyka.
 
-
-:::
-
-:::{.column-screen}
-
-:::
