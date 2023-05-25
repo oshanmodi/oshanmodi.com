@@ -15,7 +15,7 @@ about:
       url: "mailto:modi.oshan@gmail.com"
 comments: false
 ---
-::: {.column-page}
+::: {.column-body}
 
 ## Bio
 
@@ -26,5 +26,10 @@ comments: false
  I have recently started working on computer vision problems and have also picked up skills in MLOps and Data Engineering.
  
  When I'm not coding, you can find me strategizing my next move on the chessboard, attempting favors in GOW-Ragnarock or playing with my dogs - Tuffy and Lyka.
+
+
+:::
+
+:::{.column-screen}
 
 :::
