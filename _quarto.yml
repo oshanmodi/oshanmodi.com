@@ -36,4 +36,6 @@ format:
   html:
     theme: 
       light: [sandstone, _variables.scss]
+      # light: [cosmo, _variables.scss]
+      # dark: [cosmo, theme_dark_custom.scss]
     css: styles.css
