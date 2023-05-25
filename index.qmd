@@ -10,6 +10,9 @@ about:
     - text: GitHub
       icon: github
       url: "https://github.com/oshanmodi"
+    - text: Strava
+      icon: strava
+      url: "https://www.strava.com/athletes/12222628"
     - text: Contact Me
       icon: envelope
       url: "mailto:modi.oshan@gmail.com"
