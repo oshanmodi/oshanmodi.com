@@ -1,0 +1,77 @@
+## HealthSpotter - Navigating Your Health with Ease
+
+::: columns
+::: {.column width="55%"}
+
+An application that lets you visualise the density of health centers around you. Only works for Australia at the moment. Check out the application [here](https://datayogi.shinyapps.io/AustraliaHealthCareDemoApp/){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/prj_healthspotter1.png)
+:::
+:::
+
+## Analytics Playground
+
+::: columns
+::: {.column width="40%"}
+![](images/prj_analyticsplayground1.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+Interactive R Shiny application designed to facilitate model training and comparison. It allows users to explore various machine learning models and comprehend the impact of different parameters on the model's performance.
+
+Key features of the application include the ability to apply:
+
+- Model Selection
+- Model Training and Evaluation
+- Parameter Tuning
+- Performance Comparison
+- Results Visualization
+
+Checkout the app [here](https://datayogi.shinyapps.io/PowerBIDemoApp/{target="_blank"})
+:::
+:::
+
+
+
+## COVID-19 in Europe - Full Breakdown
+
+::: columns
+::: {.column width="55%"}
+A dashboard to visualise covid cases across europe.
+
+Checkout the app [here](https://datayogi.shinyapps.io/Shiny-CovidDashboard/){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/prj_covid19-3.png)
+:::
+:::
+
+
+<!-- ## Medium blog - Moving from interesting to actionable analysis -->
+
+<!-- ::: columns -->
+<!-- ::: {.column width="55%"} -->
+<!-- No actions were taken from the insights you produced, and there was no impact on the business. Your beautiful analysis went on to sit in a folder unseen by anybody ever again. Let's name this folder "the analysis morgue." It contains more moribund analyses than it ought to because this scenario represents a common problem with data analytics teams, and by experiencing it you are not alone. -->
+
+<!-- But there are ways to avoid it.... [Continue reading](https://medium.com/p/5d62c929a36c){target="_blank"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="5%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="40%"} -->
+<!-- ![](images/clusters.png) -->
+<!-- ::: -->
+<!-- ::: -->

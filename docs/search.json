@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/01-healthspotter/index.html",
-    "href": "posts/01-healthspotter/index.html",
-    "title": "HealthSpotter: Navigating Your Health with Ease",
-    "section": "",
-    "text": "HealthSpotter\nAn application that lets you visualise the density of health centers around you. Only works for Australia at the moment. Check out the application here."
-  },
-  {
     "objectID": "posts/04-fastai-lesson1-intro/index.html",
     "href": "posts/04-fastai-lesson1-intro/index.html",
     "title": "Intro to Fast.Ai",
@@ -14,18 +7,32 @@
     "text": "A summary of the first lesson of the fastai v1 course.\n\n\nfast.ai\nfast.ai is an API built on top of pytorch that provides easy implementation of machine learning functions for most practical usecases, without having to worry about any of the boilerplate code. Not just that, it also enables customisations in all the right places.\nThis is my one of many attempts at completing the fastai course. I have been at it since the first iteration of the course, back in 2016.\nIn this blogpost we talk about the contents of the first lesson of the course.\nIn the first lesson Jeremy explains the steps involved in training an image classifier using the datablock api. datablocks are building blocks for model development in the fastai universe and come with several inbuilt methods that expedite model training and exploration.\nSteps to train an image classifer using datablock and resnet18 architecture:\n\nCreate a datablock api\nPass the path of the data to dataloaders method of the datablock\nCreate learner with resnet18 architecture and the dataloader created in step2\nfine_tune the learner\nexport learner as pickle for inferencing.\n\nLet’s understand the inputs to the datablock api -\n\ndatatype - input object type, label type\nfunction to identify the label\nitem transformations\nbatch transformations\nsplitter - function to split to training and validation datasets\nget_items - function to obtain the input objects\n\nThere are task specific dataloaders built on top of datablocks which further simply data load, eg. Segmentation dataloaders, Tabular dataloader, collab dataloaders, and more."
   },
   {
-    "objectID": "posts/03-covid19-in-europe/index.html",
-    "href": "posts/03-covid19-in-europe/index.html",
-    "title": "COVID-19 in Europe - Full Breakdown",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Oshan Modi",
     "section": "",
-    "text": "A dashboard to visualise covid cases across europe.\nCheckout the app here."
+    "text": "An application that lets you visualise the density of health centers around you. Only works for Australia at the moment. Check out the application here"
   },
   {
-    "objectID": "posts/02-analytics-playground/index.html",
-    "href": "posts/02-analytics-playground/index.html",
-    "title": "Analytics Playground",
+    "objectID": "projects.html#healthspotter---navigating-your-health-with-ease",
+    "href": "projects.html#healthspotter---navigating-your-health-with-ease",
+    "title": "Oshan Modi",
     "section": "",
-    "text": "Checkout the app here.\nThis R Shiny interactive application is a powerful tool designed to facilitate model training and comparison. It allows users to explore various machine learning models and comprehend the impact of different parameters on the model’s performance.\nKey features of the R Shiny application include:\n\nModel Selection: Users can choose from a wide range of machine learning algorithms available in the application. Common options include linear regression, decision trees, random forests, support vector machines, and neural networks, among others.\nModel Training and Evaluation: The application allows users to train the selected models on the provided dataset. They can specify training parameters, such as the train-test split ratio or cross-validation folds, to ensure robust model performance assessment.\nParameter Tuning: Users can experiment with different parameter settings for each model to understand their impact on performance metrics, such as accuracy, precision, recall, or F1-score. The application provides interactive controls to adjust parameter values dynamically.\nPerformance Comparison: The application provides visualizations and metrics to compare the performance of different models side by side. Users can observe how changes in parameters affect the models’ predictive power and choose the most suitable model for their specific task.\nResults Visualization: The application offers interactive visualizations, such as confusion matrices, ROC curves, precision-recall curves,"
+    "text": "An application that lets you visualise the density of health centers around you. Only works for Australia at the moment. Check out the application here"
+  },
+  {
+    "objectID": "projects.html#analytics-playground",
+    "href": "projects.html#analytics-playground",
+    "title": "Oshan Modi",
+    "section": "Analytics Playground",
+    "text": "Analytics Playground\n\n\n\n\n\n\nInteractive R Shiny application designed to facilitate model training and comparison. It allows users to explore various machine learning models and comprehend the impact of different parameters on the model’s performance.\nKey features of the application include the ability to apply:\n\nModel Selection\nModel Training and Evaluation\nParameter Tuning\nPerformance Comparison\nResults Visualization Checkout the app here"
+  },
+  {
+    "objectID": "projects.html#covid-19-in-europe---full-breakdown",
+    "href": "projects.html#covid-19-in-europe---full-breakdown",
+    "title": "Oshan Modi",
+    "section": "COVID-19 in Europe - Full Breakdown",
+    "text": "COVID-19 in Europe - Full Breakdown\n\n\nA dashboard to visualise covid cases across europe.\nCheckout the app here"
   },
   {
     "objectID": "index.html",
@@ -42,10 +49,31 @@
     "text": "I’m Oshan Modi, a data scientist on a mission to solve the problems of the world with power of machine learning.\nWith a strong foundation in statistics and predictive analytics, I combine technical expertise with business acumen to deliver actionable solutions. My portfolio showcases a diverse range of projects, from sales forecasting models to recommendation systems and natural language processing.\nI’m constantly expanding my knowledge, from mastering new machine learning techniques to diving into game theory concepts. I have recently started working on computer vision problems and have also picked up skills in MLOps and Data Engineering.\nWhen I’m not coding, you can find me strategizing my next move on the chessboard, attempting favors in GOW-Ragnarock or playing with my dogs - Tuffy and Lyka."
   },
   {
+    "objectID": "junkyard/unused_posts/01-healthspotter/index.html",
+    "href": "junkyard/unused_posts/01-healthspotter/index.html",
+    "title": "HealthSpotter: Navigating Your Health with Ease",
+    "section": "",
+    "text": "HealthSpotter\nAn application that lets you visualise the density of health centers around you. Only works for Australia at the moment. Check out the application here."
+  },
+  {
+    "objectID": "junkyard/unused_posts/03-covid19-in-europe/index.html",
+    "href": "junkyard/unused_posts/03-covid19-in-europe/index.html",
+    "title": "COVID-19 in Europe - Full Breakdown",
+    "section": "",
+    "text": "A dashboard to visualise covid cases across europe.\nCheckout the app here."
+  },
+  {
+    "objectID": "junkyard/unused_posts/02-analytics-playground/index.html",
+    "href": "junkyard/unused_posts/02-analytics-playground/index.html",
+    "title": "Analytics Playground",
+    "section": "",
+    "text": "Checkout the app here.\nThis R Shiny interactive application is a powerful tool designed to facilitate model training and comparison. It allows users to explore various machine learning models and comprehend the impact of different parameters on the model’s performance.\nKey features of the R Shiny application include:\n\nModel Selection: Users can choose from a wide range of machine learning algorithms available in the application. Common options include linear regression, decision trees, random forests, support vector machines, and neural networks, among others.\nModel Training and Evaluation: The application allows users to train the selected models on the provided dataset. They can specify training parameters, such as the train-test split ratio or cross-validation folds, to ensure robust model performance assessment.\nParameter Tuning: Users can experiment with different parameter settings for each model to understand their impact on performance metrics, such as accuracy, precision, recall, or F1-score. The application provides interactive controls to adjust parameter values dynamically.\nPerformance Comparison: The application provides visualizations and metrics to compare the performance of different models side by side. Users can observe how changes in parameters affect the models’ predictive power and choose the most suitable model for their specific task.\nResults Visualization: The application offers interactive visualizations, such as confusion matrices, ROC curves, precision-recall curves,"
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Oshan talks",
     "section": "",
-    "text": "Intro to Fast.Ai\n\n\n\nfastai\n\n\n\n\n\n\n\nOshan Modi\n\n\nMay 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID-19 in Europe - Full Breakdown\n\n\n\nshiny\n\n\nDashboard\n\n\n\n\n\n\n\nOshan Modi\n\n\nNov 7, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytics Playground\n\n\n\nshiny\n\n\nDashboard\n\n\n\n\n\n\n\nOshan Modi\n\n\nAug 15, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHealthSpotter: Navigating Your Health with Ease\n\n\n\nshiny\n\n\nDashboard\n\n\n\n\n\n\n\nOshan Modi\n\n\nMar 31, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Intro to Fast.Ai\n\n\n\nfastai\n\n\n\n\n\n\n\nOshan Modi\n\n\nMay 13, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
