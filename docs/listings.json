@@ -2,7 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/fastai-lesson1-intro/index.html",
+      "/posts/04-fastai-lesson1-intro/index.html",
       "/posts/03-covid19-in-europe/index.html",
       "/posts/02-analytics-playground/index.html",
       "/posts/01-healthspotter/index.html"

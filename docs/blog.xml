@@ -14,14 +14,14 @@
 <item>
   <title>Intro to Fast.Ai</title>
   <dc:creator>Oshan Modi</dc:creator>
-  <link>https://oshanmodi.com/posts/fastai-lesson1-intro/index.html</link>
+  <link>https://oshanmodi.com/posts/04-fastai-lesson1-intro/index.html</link>
   <description><![CDATA[ 
 
 
 
 
 <p>A summary of the first lesson of the fastai v1 course.</p>
-<p><img src="https://oshanmodi.com/posts/fastai-lesson1-intro/fastai1.png" class="img-fluid"></p>
+<p><img src="https://oshanmodi.com/posts/04-fastai-lesson1-intro/fastai1.png" class="img-fluid"></p>
 <section id="fast.ai" class="level3">
 <h3 class="anchored" data-anchor-id="fast.ai">fast.ai</h3>
 <p>fast.ai is an API built on top of pytorch that provides easy implementation of machine learning functions for most practical usecases, without having to worry about any of the boilerplate code. Not just that, it also enables customisations in all the right places.</p>
@@ -52,9 +52,9 @@
 
  ]]></description>
   <category>fastai</category>
-  <guid>https://oshanmodi.com/posts/fastai-lesson1-intro/index.html</guid>
+  <guid>https://oshanmodi.com/posts/04-fastai-lesson1-intro/index.html</guid>
   <pubDate>Fri, 12 May 2023 18:30:00 GMT</pubDate>
-  <media:content url="https://oshanmodi.com/posts/fastai-lesson1-intro/fastai2.png" medium="image" type="image/png" height="51" width="144"/>
+  <media:content url="https://oshanmodi.com/posts/04-fastai-lesson1-intro/fastai2.png" medium="image" type="image/png" height="51" width="144"/>
 </item>
 <item>
   <title>COVID-19 in Europe - Full Breakdown</title>

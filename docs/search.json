@@ -7,8 +7,8 @@
     "text": "HealthSpotter\nAn application that lets you visualise the density of health centers around you. Only works for Australia at the moment. Check out the application here."
   },
   {
-    "objectID": "posts/fastai-lesson1-intro/index.html",
-    "href": "posts/fastai-lesson1-intro/index.html",
+    "objectID": "posts/04-fastai-lesson1-intro/index.html",
+    "href": "posts/04-fastai-lesson1-intro/index.html",
     "title": "Intro to Fast.Ai",
     "section": "",
     "text": "A summary of the first lesson of the fastai v1 course.\n\n\nfast.ai\nfast.ai is an API built on top of pytorch that provides easy implementation of machine learning functions for most practical usecases, without having to worry about any of the boilerplate code. Not just that, it also enables customisations in all the right places.\nThis is my one of many attempts at completing the fastai course. I have been at it since the first iteration of the course, back in 2016.\nIn this blogpost we talk about the contents of the first lesson of the course.\nIn the first lesson Jeremy explains the steps involved in training an image classifier using the datablock api. datablocks are building blocks for model development in the fastai universe and come with several inbuilt methods that expedite model training and exploration.\nSteps to train an image classifer using datablock and resnet18 architecture:\n\nCreate a datablock api\nPass the path of the data to dataloaders method of the datablock\nCreate learner with resnet18 architecture and the dataloader created in step2\nfine_tune the learner\nexport learner as pickle for inferencing.\n\nLet’s understand the inputs to the datablock api -\n\ndatatype - input object type, label type\nfunction to identify the label\nitem transformations\nbatch transformations\nsplitter - function to split to training and validation datasets\nget_items - function to obtain the input objects\n\nThere are task specific dataloaders built on top of datablocks which further simply data load, eg. Segmentation dataloaders, Tabular dataloader, collab dataloaders, and more."
