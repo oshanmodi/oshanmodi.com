@@ -25,7 +25,7 @@
     "href": "projects.html#analytics-playground",
     "title": "Oshan Modi",
     "section": "Analytics Playground",
-    "text": "Analytics Playground\n\n\n\n\n\n\nInteractive R Shiny application designed to facilitate model training and comparison. It allows users to explore various machine learning models and comprehend the impact of different parameters on the model’s performance.\nKey features of the application include the ability to apply:\n\nModel Selection\nModel Training and Evaluation\nParameter Tuning\nPerformance Comparison\nResults Visualization Checkout the app here"
+    "text": "Analytics Playground\n\n\n\n\n\n\nInteractive R Shiny application designed to facilitate model training and comparison. It allows users to explore various machine learning models and comprehend the impact of different parameters on the model’s performance.\nKey features of the application include the ability to apply:\n\nModel Selection\nModel Training and Evaluation\nParameter Tuning\nPerformance Comparison\nResults Visualization\n\nCheckout the app here"
   },
   {
     "objectID": "projects.html#covid-19-in-europe---full-breakdown",
