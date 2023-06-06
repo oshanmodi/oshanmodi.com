@@ -1,0 +1,30 @@
+---
+title: "Analytics Playground"
+author: "Oshan Modi"
+date: "2021-08-15"
+categories: [shiny, Dashboard]
+image: "analyticsplayground1.png"
+image-height: "5%"
+image-width: "5%"
+---
+
+
+![](analyticsplayground1.png)
+
+Checkout the app [here](https://datayogi.shinyapps.io/PowerBIDemoApp/).
+
+This R Shiny interactive application is a powerful tool designed to facilitate model training and comparison. It allows users to explore various machine learning models and comprehend the impact of different parameters on the model's performance.
+
+Key features of the R Shiny application include:
+
+- **Model Selection**: Users can choose from a wide range of machine learning algorithms available in the application. Common options include linear regression, decision trees, random forests, support vector machines, and neural networks, among others.
+
+- **Model Training and Evaluation**: The application allows users to train the selected models on the provided dataset. They can specify training parameters, such as the train-test split ratio or cross-validation folds, to ensure robust model performance assessment.
+
+- **Parameter Tuning**: Users can experiment with different parameter settings for each model to understand their impact on performance metrics, such as accuracy, precision, recall, or F1-score. The application provides interactive controls to adjust parameter values dynamically.
+
+- **Performance Comparison**: The application provides visualizations and metrics to compare the performance of different models side by side. Users can observe how changes in parameters affect the models' predictive power and choose the most suitable model for their specific task.
+
+- **Results Visualization**: The application offers interactive visualizations, such as confusion matrices, ROC curves, precision-recall curves, 
+
+
