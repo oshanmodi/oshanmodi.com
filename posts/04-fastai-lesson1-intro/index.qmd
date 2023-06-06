@@ -3,7 +3,7 @@ title: "Intro to Fast.Ai"
 author: "Oshan Modi"
 date: "2023-05-13"
 categories: [fastai]
-image: "fastai2.png"
+image: "fastai4.png"
 image-height: "5%"
 image-width: "5%"
 ---
