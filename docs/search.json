@@ -49,27 +49,6 @@
     "text": "I’m Oshan Modi, a data scientist on a mission to solve the problems of the world with power of machine learning.\nWith a strong foundation in statistics and predictive analytics, I combine technical expertise with business acumen to deliver actionable solutions. My portfolio showcases a diverse range of projects, from sales forecasting models to recommendation systems and natural language processing.\nI’m constantly expanding my knowledge, from mastering new machine learning techniques to diving into game theory concepts. I have recently started working on computer vision problems and have also picked up skills in MLOps and Data Engineering.\nWhen I’m not coding, you can find me strategizing my next move on the chessboard, attempting favors in GOW-Ragnarock or playing with my dogs - Tuffy and Lyka."
   },
   {
-    "objectID": "junkyard/unused_posts/01-healthspotter/index.html",
-    "href": "junkyard/unused_posts/01-healthspotter/index.html",
-    "title": "HealthSpotter: Navigating Your Health with Ease",
-    "section": "",
-    "text": "HealthSpotter\nAn application that lets you visualise the density of health centers around you. Only works for Australia at the moment. Check out the application here."
-  },
-  {
-    "objectID": "junkyard/unused_posts/03-covid19-in-europe/index.html",
-    "href": "junkyard/unused_posts/03-covid19-in-europe/index.html",
-    "title": "COVID-19 in Europe - Full Breakdown",
-    "section": "",
-    "text": "A dashboard to visualise covid cases across europe.\nCheckout the app here."
-  },
-  {
-    "objectID": "junkyard/unused_posts/02-analytics-playground/index.html",
-    "href": "junkyard/unused_posts/02-analytics-playground/index.html",
-    "title": "Analytics Playground",
-    "section": "",
-    "text": "Checkout the app here.\nThis R Shiny interactive application is a powerful tool designed to facilitate model training and comparison. It allows users to explore various machine learning models and comprehend the impact of different parameters on the model’s performance.\nKey features of the R Shiny application include:\n\nModel Selection: Users can choose from a wide range of machine learning algorithms available in the application. Common options include linear regression, decision trees, random forests, support vector machines, and neural networks, among others.\nModel Training and Evaluation: The application allows users to train the selected models on the provided dataset. They can specify training parameters, such as the train-test split ratio or cross-validation folds, to ensure robust model performance assessment.\nParameter Tuning: Users can experiment with different parameter settings for each model to understand their impact on performance metrics, such as accuracy, precision, recall, or F1-score. The application provides interactive controls to adjust parameter values dynamically.\nPerformance Comparison: The application provides visualizations and metrics to compare the performance of different models side by side. Users can observe how changes in parameters affect the models’ predictive power and choose the most suitable model for their specific task.\nResults Visualization: The application offers interactive visualizations, such as confusion matrices, ROC curves, precision-recall curves,"
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Oshan talks",
