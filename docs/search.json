@@ -11,14 +11,21 @@
     "href": "projects.html",
     "title": "Oshan Modi",
     "section": "",
-    "text": "An application that lets you visualise the density of health centers around you. Only works for Australia at the moment. Check out the application here"
+    "text": "stoRy is a Tidyverse friendly package for downloading, exploring, and analyzing Literary Theme Ontology (LTO) data in R.\nGithub Repo"
+  },
+  {
+    "objectID": "projects.html#story---r-package",
+    "href": "projects.html#story---r-package",
+    "title": "Oshan Modi",
+    "section": "",
+    "text": "stoRy is a Tidyverse friendly package for downloading, exploring, and analyzing Literary Theme Ontology (LTO) data in R.\nGithub Repo"
   },
   {
     "objectID": "projects.html#healthspotter---navigating-your-health-with-ease",
     "href": "projects.html#healthspotter---navigating-your-health-with-ease",
     "title": "Oshan Modi",
-    "section": "",
-    "text": "An application that lets you visualise the density of health centers around you. Only works for Australia at the moment. Check out the application here"
+    "section": "HealthSpotter - Navigating Your Health with Ease",
+    "text": "HealthSpotter - Navigating Your Health with Ease\n\n\nAn application that lets you visualise the density of health centers around you. Only works for Australia at the moment. Check out the application here"
   },
   {
     "objectID": "projects.html#analytics-playground",

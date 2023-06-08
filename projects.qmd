@@ -1,3 +1,22 @@
+## stoRy - R Package
+
+::: columns
+::: {.column width="40%"}
+![](images/prj_themeontology1.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+`stoRy` is a Tidyverse friendly package for downloading, exploring, and analyzing Literary Theme Ontology (LTO) data in R.
+
+[Github Repo](https://github.com/theme-ontology/stoRy{target="_blank"})
+:::
+:::
+
+
+
 ## HealthSpotter - Navigating Your Health with Ease
 
 ::: columns
