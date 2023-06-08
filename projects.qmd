@@ -11,7 +11,7 @@
 ::: {.column width="55%"}
 `stoRy` is a Tidyverse friendly package for downloading, exploring, and analyzing Literary Theme Ontology (LTO) data in R.
 
-[Github Repo](https://github.com/theme-ontology/stoRy{target="_blank"})
+[Github Repo](https://github.com/theme-ontology/stoRy/){target="_blank"}
 :::
 :::
 
@@ -54,7 +54,7 @@ Key features of the application include the ability to apply:
 - Performance Comparison
 - Results Visualization
 
-Checkout the app [here](https://datayogi.shinyapps.io/PowerBIDemoApp/{target="_blank"})
+Checkout the app [here](https://datayogi.shinyapps.io/PowerBIDemoApp/){target="_blank"}
 :::
 :::
 
