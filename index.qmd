@@ -16,6 +16,9 @@ about:
     - text: Contact Me
       icon: envelope
       url: "mailto:modi.oshan@gmail.com"
+    - text: Book an Appointment
+      icon: calendar-check-fill
+      url: "https://calendly.com/oshanmodi/30-minute-meeting"
 comments: false
 ---
 ::: {.column-body}
