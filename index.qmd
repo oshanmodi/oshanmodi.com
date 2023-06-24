@@ -1,8 +1,11 @@
 ---
 title: "Oshan Modi"
 image: images/avatar.png
+format:
+  html:
+    link-external-newwindow: true
 about:
-  template: trestles
+  template: trestles  
   links:
     - text: LinkedIn
       icon: linkedin
