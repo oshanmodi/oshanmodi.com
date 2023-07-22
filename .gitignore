@@ -1,3 +1,8 @@
-/.quarto/
-junkyard/
-_old_backup_to_be_deleted/
+#ignore everything
+*
+
+# include the following
+!.gitignore
+!README.md
+!docs
+!docs/*
